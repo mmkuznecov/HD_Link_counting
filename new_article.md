@@ -83,7 +83,7 @@ pip install -r requirements.txt
 
 Пример работы:
 
-<img src="../assets/0.gif" width="50%">
+<img src="assets/0.gif" width="50%">
 
 ***На изображении есть еще один параметр - Status, но он был убран.***
 
@@ -103,12 +103,12 @@ git clone https://github.com/mmkuznecov/HD_Link_crowd.git
 
 Оригинал изображения:
 
-<img src="../assets/CS.jpg" width="50%">
+<img src="assets/CS.jpg" width="50%">
 
 Тепловая карта плотности скопления:
 
-<img src="../assets/heatmap.jpg" width="50%">
+<img src="assets/heatmap.jpg" width="50%">
 
 В итоге получается примерно 1562 человека.
 
-<img src="../assets/screen.jpg" width="50%">
+<img src="assets/screen.jpg" width="50%">
