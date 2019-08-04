@@ -105,10 +105,10 @@ git clone https://github.com/mmkuznecov/HD_Link_crowd.git
 
 <img src="assets/CS.jpg" width="50%">
 
-Тепловая карта плотности скопления:
+Тепловая карта плотности скопления людей:
 
 <img src="assets/heatmap.jpg" width="50%">
 
-В итоге получается примерно 1562 человека.
+В итоге получается примерно 1562 человека:
 
 <img src="assets/screen.jpg" width="50%">
